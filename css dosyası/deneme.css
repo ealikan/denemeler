@@ -3,11 +3,7 @@
 /* class için .text-red{} */
 /* id için #id-bilgisi{} */
  
-body{
-     background-image: url();
-    
 
-}
 .text-red{
 
     color: red;
@@ -24,4 +20,8 @@ body{
 
 .fs-30{
     font-size: 30px;
+}
+
+.ort {
+    list-style-position: inside;
 }
